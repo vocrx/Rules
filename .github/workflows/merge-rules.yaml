@@ -1,0 +1,62 @@
+name: Merge Rules
+
+on:
+  schedule:
+    - cron: '0 16 * * *'
+  workflow_dispatch:
+
+jobs:
+  merge-rules:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Create rules directory
+        run: mkdir -p rules
+
+      - name: Download source files
+        run: |
+          curl -o Surge/Netflix.list -s https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list
+          curl -o Surge/Disney.list -s https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list
+          curl -o Surge/MAX.list -s https://raw.githubusercontent.com/vocrx/Surge/main/rules/hbomax.list
+
+          curl -o Surge/AI.list -s https://raw.githubusercontent.com/vocrx/Surge/main/rules/AI.list
+          curl -o Surge/PayPal.list -s https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list
+
+          curl -o Surge/ChinaDomain.list -s https://raw.githubusercontent.com/vocrx/Surge/main/rules/Domestic.list
+          curl -o Surge/ChinaIPV4.conf -s https://ruleset.skk.moe/List/ip/china_ip.conf
+          curl -o Surge/ChinaIPV6.conf -s https://ruleset.skk.moe/List/ip/china_ip_ipv6.conf
+      - name: Merge Streaming Rules
+        run: python Scripts/merge-rules.py -i "rules/Netflix.list,rules/Disney.list,rules/MAX.list" -o "rules/Streaming.list"
+
+      - name: Merge US Rules
+        run: python Scripts/merge-rules.py -i "rules/AI.list,rules/PayPal.list" -o "rules/US.list"
+
+      - name: Merge China Rules
+        run: python Scripts/merge-rules.py -i "rules/ChinaDomain.list,rules/ChinaIPV4.conf,rules/ChinaIPV6.conf" -o "rules/China.list"
+
+      - name: Upload artifacts
+        uses: actions/upload-artifact@v4
+        with:
+          name: merged-rules
+          path: |
+            Surge/Streaming.list
+            Surge/US.list
+            Surge/China.list
+
+      - name: Commit merged rules
+        if: success()
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add Surge/Streaming.list Surge/US.list Surge/China.list
+          git commit -m "Github Actions Auto Update Rules" || exit 0
+          git push origin main

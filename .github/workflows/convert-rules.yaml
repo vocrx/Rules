@@ -1,0 +1,32 @@
+name: Convert Surge to Egern
+
+on:
+  push:
+    paths:
+      - 'Surge/**.list'
+  workflow_dispatch:
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Convert files
+        run: |
+          python list2yaml.py \
+            --pattern "Surge/*.list" \
+            --skip-no-resolve-files '["Surge/China.list"]'
+
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add Egern/*.yaml
+          git commit -m "Convert Surge rules to Egern format" || echo "No changes to commit"
+          git push
