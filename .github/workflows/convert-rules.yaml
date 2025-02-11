@@ -13,7 +13,6 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: main
-          token: ${{secrets.PAT}}
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -32,4 +31,4 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add Egern/*.yaml
           git commit -m "Convert Surge rules to Egern format" || echo "No changes to commit"
-          git push
+          git push origin main
