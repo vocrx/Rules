@@ -21,14 +21,13 @@ jobs:
 
       - name: Convert files
         run: |
-          python Scripts/Surge2Egern.py \
-            --pattern "Surge/*.list" \
-            --skip-no-resolve-files '["Surge/China.list","ChinaIP.list"]'
+          python Scripts/Surge2Egern.py --pattern "Surge/*.list" --skip-no-resolve-files '["Surge/China.list"]'
+          python Scripts/Surge2Mihomo.py --pattern "Surge/*.list"
 
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
-          git add Egern/*.yaml
-          git commit -m "Github Action auto convert Surge rules to Egern format" || echo "No changes to commit"
+          git add Egern/*.yaml Mihomo/*.yaml
+          git commit -m "Github Action auto convert rules" || echo "No changes to commit"
           git push origin main
