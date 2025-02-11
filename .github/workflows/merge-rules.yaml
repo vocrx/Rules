@@ -26,12 +26,12 @@ jobs:
         run: |
           curl -o Surge/Netflix.list -s https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Netflix/Netflix.list
           curl -o Surge/Disney.list -s https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/Disney/Disney.list
-          curl -o Surge/MAX.list -s https://raw.githubusercontent.com/vocrx/Surge/main/rules/hbomax.list
+          curl -o Surge/MAX.list -s https://raw.githubusercontent.com/vocrx/Rules/main/Surge/MAX.list
 
-          curl -o Surge/AI.list -s https://raw.githubusercontent.com/vocrx/Surge/main/rules/AI.list
+          curl -o Surge/AI.list -s https://raw.githubusercontent.com/vocrx/Rules/main/Surge/AI.list
           curl -o Surge/PayPal.list -s https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rule/Surge/PayPal/PayPal.list
 
-          curl -o Surge/ChinaDomain.list -s https://raw.githubusercontent.com/vocrx/Surge/main/rules/Domestic.list
+          curl -o Surge/ChinaDomain.list -s https://raw.githubusercontent.com/vocrx/Rules/main/Surge/Domestic.list
           curl -o Surge/ChinaIPV4.conf -s https://ruleset.skk.moe/List/ip/china_ip.conf
           curl -o Surge/ChinaIPV6.conf -s https://ruleset.skk.moe/List/ip/china_ip_ipv6.conf
       - name: Merge Streaming Rules
