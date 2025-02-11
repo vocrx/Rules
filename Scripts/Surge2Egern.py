@@ -11,6 +11,7 @@ def convert_list_to_yaml(input_file, output_file, skip_no_resolve=False):
     domain_keyword_set = []
     ip_cidr_set = []
     ip_cidr6_set = []
+    asn_set = []
 
     with open(input_file, "r", encoding="utf-8") as f:
         for line in f:
@@ -28,6 +29,8 @@ def convert_list_to_yaml(input_file, output_file, skip_no_resolve=False):
                 ip_cidr_set.append(line.split(",")[1])
             elif line.startswith("IP-CIDR6,"):
                 ip_cidr6_set.append(line.split(",")[1])
+            elif line.startswith("IP-ASN,"):
+                asn_set.append(line.split(",")[1])
 
     os.makedirs(os.path.dirname(output_file), exist_ok=True)
 
@@ -59,6 +62,11 @@ def convert_list_to_yaml(input_file, output_file, skip_no_resolve=False):
             f.write("ip_cidr6_set:\n")
             for ip in ip_cidr6_set:
                 f.write(f"  - {ip}\n")
+
+        if asn_set:
+            f.write("asn_set:\n")
+            for asn in asn_set:
+                f.write(f"  - {asn}\n")
 
 
 def process_files(pattern, skip_no_resolve_files=None):
