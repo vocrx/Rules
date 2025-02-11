@@ -1,4 +1,4 @@
-name: Convert Surge to Egern
+name: Convert Rules
 
 on:
   push:
@@ -23,12 +23,12 @@ jobs:
         run: |
           python Scripts/Surge2Egern.py \
             --pattern "Surge/*.list" \
-            --skip-no-resolve-files '["Surge/China.list"]'
+            --skip-no-resolve-files '["Surge/China.list","ChinaIP.list"]'
 
       - name: Commit changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           git add Egern/*.yaml
-          git commit -m "Convert Surge rules to Egern format" || echo "No changes to commit"
+          git commit -m "Github Action auto convert Surge rules to Egern format" || echo "No changes to commit"
           git push origin main
