@@ -1,0 +1,11 @@
+no_resolve: true
+domain_set:
+  - ai.google.dev
+  - deepmind.google
+  - gemini.google.com
+domain_suffix_set:
+  - anthropic.com
+  - chatgpt.com
+domain_keyword_set:
+  - claude
+  - openai
