@@ -200,7 +200,6 @@ domain_suffix_set:
   - amazon-adsystem.com
   - amazon.com
   - amazonaws.com
-  - amazonaws.com
   - amazontrust.com
   - ampaeservices.com
   - amplitude.com
@@ -283,7 +282,6 @@ domain_suffix_set:
   - bnappzh.com
   - bnappzh.mobi
   - bnbzh.ac
-  - bntrace.com
   - bntrace.com
   - boba.network
   - bootstrapcdn.com
@@ -465,7 +463,6 @@ domain_suffix_set:
   - ethernodes.org
   - etherscan.com
   - etherscan.io
-  - etherscan.io
   - ethfans.org
   - ethgasstation.info
   - eu-1-id5-sync.com
@@ -491,7 +488,6 @@ domain_suffix_set:
   - fdcservers.io
   - fdcservers.net
   - fees.info
-  - ffbbbdc6d3c353211fe2ba39c9f744cd.com
   - ffbbbdc6d3c353211fe2ba39c9f744cd.com
   - fileball.app
   - filecoin.io
@@ -584,6 +580,7 @@ domain_suffix_set:
   - i8.pw
   - ibb.co
   - ibruce.info
+  - icloud-content.com
   - icodrops.com
   - iconify.design
   - icscoe.jp
@@ -601,7 +598,6 @@ domain_suffix_set:
   - inetc.co.uk
   - inflightpanasonic.aero
   - influxdata.com
-  - infura.io
   - infura.io
   - inmobi.com
   - inner-active.mobi
@@ -747,6 +743,7 @@ domain_suffix_set:
   - music.apple.com
   - myaisfibre.com
   - myetherwallet.com
+  - mypikpak.net
   - myqcloud.com
   - mytokenapi.com
   - mytokenpocket.vip
@@ -815,8 +812,11 @@ domain_suffix_set:
   - openstatus.dev
   - openwebui.com
   - optimism.io
+  - oracelimg.com
   - oracle-mail.com
+  - oracle.com
   - oraclecloud.com
+  - oracleinfinity.io
   - orbstack.dev
   - osl.com
   - ox.ac.uk
@@ -991,7 +991,6 @@ domain_suffix_set:
   - tappx.com
   - tatum.io
   - tawk.to
-  - tawk.to
   - telegram.org
   - telekom-dienste.de
   - telemetrydeck.com
@@ -1022,7 +1021,6 @@ domain_suffix_set:
   - tktn.be
   - tmdb.org
   - token.im
-  - tokenpocket.pro
   - tokenpocket.pro
   - tokenterminal.com
   - tokenview.com
@@ -1094,7 +1092,6 @@ domain_suffix_set:
   - vscode-sync.trafficmanager.net
   - vyncke.org
   - walletbot.me
-  - walletconnect.com
   - walletconnect.com
   - walletconnect.org
   - walletteam.org

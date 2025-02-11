@@ -234,7 +234,6 @@ payload:
 - DOMAIN-SUFFIX,amazon-adsystem.com
 - DOMAIN-SUFFIX,amazon.com
 - DOMAIN-SUFFIX,amazonaws.com
-- DOMAIN-SUFFIX,amazonaws.com
 - DOMAIN-SUFFIX,amazontrust.com
 - DOMAIN-SUFFIX,ampaeservices.com
 - DOMAIN-SUFFIX,amplitude.com
@@ -317,7 +316,6 @@ payload:
 - DOMAIN-SUFFIX,bnappzh.com
 - DOMAIN-SUFFIX,bnappzh.mobi
 - DOMAIN-SUFFIX,bnbzh.ac
-- DOMAIN-SUFFIX,bntrace.com
 - DOMAIN-SUFFIX,bntrace.com
 - DOMAIN-SUFFIX,boba.network
 - DOMAIN-SUFFIX,bootstrapcdn.com
@@ -499,7 +497,6 @@ payload:
 - DOMAIN-SUFFIX,ethernodes.org
 - DOMAIN-SUFFIX,etherscan.com
 - DOMAIN-SUFFIX,etherscan.io
-- DOMAIN-SUFFIX,etherscan.io
 - DOMAIN-SUFFIX,ethfans.org
 - DOMAIN-SUFFIX,ethgasstation.info
 - DOMAIN-SUFFIX,eu-1-id5-sync.com
@@ -525,7 +522,6 @@ payload:
 - DOMAIN-SUFFIX,fdcservers.io
 - DOMAIN-SUFFIX,fdcservers.net
 - DOMAIN-SUFFIX,fees.info
-- DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 - DOMAIN-SUFFIX,ffbbbdc6d3c353211fe2ba39c9f744cd.com
 - DOMAIN-SUFFIX,fileball.app
 - DOMAIN-SUFFIX,filecoin.io
@@ -618,6 +614,7 @@ payload:
 - DOMAIN-SUFFIX,i8.pw
 - DOMAIN-SUFFIX,ibb.co
 - DOMAIN-SUFFIX,ibruce.info
+- DOMAIN-SUFFIX,icloud-content.com
 - DOMAIN-SUFFIX,icodrops.com
 - DOMAIN-SUFFIX,iconify.design
 - DOMAIN-SUFFIX,icscoe.jp
@@ -635,7 +632,6 @@ payload:
 - DOMAIN-SUFFIX,inetc.co.uk
 - DOMAIN-SUFFIX,inflightpanasonic.aero
 - DOMAIN-SUFFIX,influxdata.com
-- DOMAIN-SUFFIX,infura.io
 - DOMAIN-SUFFIX,infura.io
 - DOMAIN-SUFFIX,inmobi.com
 - DOMAIN-SUFFIX,inner-active.mobi
@@ -781,6 +777,7 @@ payload:
 - DOMAIN-SUFFIX,music.apple.com
 - DOMAIN-SUFFIX,myaisfibre.com
 - DOMAIN-SUFFIX,myetherwallet.com
+- DOMAIN-SUFFIX,mypikpak.net
 - DOMAIN-SUFFIX,myqcloud.com
 - DOMAIN-SUFFIX,mytokenapi.com
 - DOMAIN-SUFFIX,mytokenpocket.vip
@@ -849,8 +846,11 @@ payload:
 - DOMAIN-SUFFIX,openstatus.dev
 - DOMAIN-SUFFIX,openwebui.com
 - DOMAIN-SUFFIX,optimism.io
+- DOMAIN-SUFFIX,oracelimg.com
 - DOMAIN-SUFFIX,oracle-mail.com
+- DOMAIN-SUFFIX,oracle.com
 - DOMAIN-SUFFIX,oraclecloud.com
+- DOMAIN-SUFFIX,oracleinfinity.io
 - DOMAIN-SUFFIX,orbstack.dev
 - DOMAIN-SUFFIX,osl.com
 - DOMAIN-SUFFIX,ox.ac.uk
@@ -1025,7 +1025,6 @@ payload:
 - DOMAIN-SUFFIX,tappx.com
 - DOMAIN-SUFFIX,tatum.io
 - DOMAIN-SUFFIX,tawk.to
-- DOMAIN-SUFFIX,tawk.to
 - DOMAIN-SUFFIX,telegram.org
 - DOMAIN-SUFFIX,telekom-dienste.de
 - DOMAIN-SUFFIX,telemetrydeck.com
@@ -1056,7 +1055,6 @@ payload:
 - DOMAIN-SUFFIX,tktn.be
 - DOMAIN-SUFFIX,tmdb.org
 - DOMAIN-SUFFIX,token.im
-- DOMAIN-SUFFIX,tokenpocket.pro
 - DOMAIN-SUFFIX,tokenpocket.pro
 - DOMAIN-SUFFIX,tokenterminal.com
 - DOMAIN-SUFFIX,tokenview.com
@@ -1128,7 +1126,6 @@ payload:
 - DOMAIN-SUFFIX,vscode-sync.trafficmanager.net
 - DOMAIN-SUFFIX,vyncke.org
 - DOMAIN-SUFFIX,walletbot.me
-- DOMAIN-SUFFIX,walletconnect.com
 - DOMAIN-SUFFIX,walletconnect.com
 - DOMAIN-SUFFIX,walletconnect.org
 - DOMAIN-SUFFIX,walletteam.org

@@ -176,11 +176,11 @@ domain_suffix_set:
   - cl2009.com
   - cmbchina.biz
   - cmbchina.cn
-  - cmbchina.cn
   - cmbchina.com
   - cmbimg.com
   - cmcc-cs.cn
   - cmpassport.com
+  - cn.ttkan.co
   - coinall.ltd
   - convection.cn
   - coolapk.com
@@ -299,7 +299,6 @@ domain_suffix_set:
   - joyami.com
   - joying.com
   - jpush-ipv6.cn
-  - jpush-ipv6.cn
   - jpush.cn
   - jpush.io
   - jslife.com.cn
@@ -327,6 +326,7 @@ domain_suffix_set:
   - kydcm.cn
   - kydco.cn
   - lcsw.cn
+  - learnenglishbaiduvideos.com
   - lebangle.com
   - leelen.com
   - liangquecx.com
@@ -430,9 +430,9 @@ domain_suffix_set:
   - qmimg.cn
   - qpic.cn
   - qq.com
-  - qq.com
   - qq.com.cn
   - qqq2.cn
+  - quanben.io
   - quark.cn
   - qunar.com
   - qunarzz.com
@@ -594,3 +594,5 @@ domain_suffix_set:
   - ziroom.com.cn
   - zxzmail.com
   - zztfly.com
+asn_set:
+  - 132203

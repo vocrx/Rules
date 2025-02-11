@@ -174,11 +174,11 @@ payload:
 - DOMAIN-SUFFIX,cl2009.com
 - DOMAIN-SUFFIX,cmbchina.biz
 - DOMAIN-SUFFIX,cmbchina.cn
-- DOMAIN-SUFFIX,cmbchina.cn
 - DOMAIN-SUFFIX,cmbchina.com
 - DOMAIN-SUFFIX,cmbimg.com
 - DOMAIN-SUFFIX,cmcc-cs.cn
 - DOMAIN-SUFFIX,cmpassport.com
+- DOMAIN-SUFFIX,cn.ttkan.co
 - DOMAIN-SUFFIX,coinall.ltd
 - DOMAIN-SUFFIX,convection.cn
 - DOMAIN-SUFFIX,coolapk.com
@@ -297,7 +297,6 @@ payload:
 - DOMAIN-SUFFIX,joyami.com
 - DOMAIN-SUFFIX,joying.com
 - DOMAIN-SUFFIX,jpush-ipv6.cn
-- DOMAIN-SUFFIX,jpush-ipv6.cn
 - DOMAIN-SUFFIX,jpush.cn
 - DOMAIN-SUFFIX,jpush.io
 - DOMAIN-SUFFIX,jslife.com.cn
@@ -325,6 +324,7 @@ payload:
 - DOMAIN-SUFFIX,kydcm.cn
 - DOMAIN-SUFFIX,kydco.cn
 - DOMAIN-SUFFIX,lcsw.cn
+- DOMAIN-SUFFIX,learnenglishbaiduvideos.com
 - DOMAIN-SUFFIX,lebangle.com
 - DOMAIN-SUFFIX,leelen.com
 - DOMAIN-SUFFIX,liangquecx.com
@@ -428,9 +428,9 @@ payload:
 - DOMAIN-SUFFIX,qmimg.cn
 - DOMAIN-SUFFIX,qpic.cn
 - DOMAIN-SUFFIX,qq.com
-- DOMAIN-SUFFIX,qq.com
 - DOMAIN-SUFFIX,qq.com.cn
 - DOMAIN-SUFFIX,qqq2.cn
+- DOMAIN-SUFFIX,quanben.io
 - DOMAIN-SUFFIX,quark.cn
 - DOMAIN-SUFFIX,qunar.com
 - DOMAIN-SUFFIX,qunarzz.com
