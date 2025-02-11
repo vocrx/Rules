@@ -19,7 +19,7 @@ jobs:
 
       - name: Convert files
         run: |
-          python list2yaml.py \
+          python Scripts/Surge2Egern.py \
             --pattern "Surge/*.list" \
             --skip-no-resolve-files '["Surge/China.list"]'
 
