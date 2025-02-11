@@ -5,9 +5,7 @@ on:
     - cron: '0 16 * * *'
   push:
     paths:
-      - 'Surge/Domestic.list'
-      - 'Surge/Normal.list'
-      - 'Surge/MAX.list'
+      - 'Surge/*.list'
   workflow_dispatch:
 
 jobs:
