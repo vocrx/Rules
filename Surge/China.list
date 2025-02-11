@@ -178,6 +178,7 @@ DOMAIN-SUFFIX,cmbchina.com
 DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmcc-cs.cn
 DOMAIN-SUFFIX,cmpassport.com
+DOMAIN-SUFFIX,cn.ttkan.co
 DOMAIN-SUFFIX,coinall.ltd
 DOMAIN-SUFFIX,convection.cn
 DOMAIN-SUFFIX,coolapk.com
@@ -323,6 +324,7 @@ DOMAIN-SUFFIX,kwimgs.com
 DOMAIN-SUFFIX,kydcm.cn
 DOMAIN-SUFFIX,kydco.cn
 DOMAIN-SUFFIX,lcsw.cn
+DOMAIN-SUFFIX,learnenglishbaiduvideos.com
 DOMAIN-SUFFIX,lebangle.com
 DOMAIN-SUFFIX,leelen.com
 DOMAIN-SUFFIX,liangquecx.com
@@ -428,6 +430,7 @@ DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qq.com.cn
 DOMAIN-SUFFIX,qqq2.cn
+DOMAIN-SUFFIX,quanben.io
 DOMAIN-SUFFIX,quark.cn
 DOMAIN-SUFFIX,qunar.com
 DOMAIN-SUFFIX,qunarzz.com
@@ -4505,7 +4508,6 @@ IP-CIDR,45.80.188.0/24
 IP-CIDR,45.80.190.0/24
 IP-CIDR,45.81.34.0/24
 IP-CIDR,45.85.76.0/22
-IP-CIDR,45.91.83.0/24
 IP-CIDR,45.92.158.0/23
 IP-CIDR,47.112.0.0/13
 IP-CIDR,47.120.0.0/15
