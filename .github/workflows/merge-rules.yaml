@@ -52,6 +52,7 @@ jobs:
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          git pull origin main
           git add Surge/Streaming.list Surge/US.list Surge/China.list
           git commit -m "Github Actions Auto Update Rules" || exit 0
           git push origin main
