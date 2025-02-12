@@ -331,6 +331,7 @@ payload:
 - DOMAIN-SUFFIX,buysellads.com
 - DOMAIN-SUFFIX,buysellads.net
 - DOMAIN-SUFFIX,bwarelabs.com
+- DOMAIN-SUFFIX,byabcd.com
 - DOMAIN-SUFFIX,byapis.com
 - DOMAIN-SUFFIX,byapps.net
 - DOMAIN-SUFFIX,bycbe.com
@@ -973,6 +974,7 @@ payload:
 - DOMAIN-SUFFIX,sharon.io
 - DOMAIN-SUFFIX,shields.io
 - DOMAIN-SUFFIX,simonsignal.com
+- DOMAIN-SUFFIX,singular.net
 - DOMAIN-SUFFIX,sixte.st
 - DOMAIN-SUFFIX,sixtynet.net
 - DOMAIN-SUFFIX,skk.moe

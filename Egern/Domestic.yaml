@@ -138,7 +138,11 @@ domain_suffix_set:
   - beizi.biz
   - bestpay.cn
   - bestwehotel.com
+  - biliapi.com
+  - bilibili.com
   - bilicomic.com
+  - biligame.com
+  - bilivideo.com
   - bmac.com.cn
   - boc.cn
   - bosszhipin.com
@@ -255,6 +259,7 @@ domain_suffix_set:
   - gtimg.cn
   - gtimg.com
   - haiercash.com
+  - hdslb.com
   - hellobike.com
   - helpmepick.net
   - heytea.com
