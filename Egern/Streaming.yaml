@@ -183,6 +183,7 @@ domain_suffix_set:
   - hotstar.com
   - hotstarext.com
   - hsprepack.akamaized.net
+  - ibyteimg.com
   - js-agent.newrelic.com
   - litix.io
   - manifest.prod.boltdns.net
@@ -207,17 +208,6 @@ domain_suffix_set:
   - netflix.com.au
   - netflix.com.edgesuite.net
   - netflix.net
-  - netflixdnstest0.com
-  - netflixdnstest1.com
-  - netflixdnstest10.com
-  - netflixdnstest2.com
-  - netflixdnstest3.com
-  - netflixdnstest4.com
-  - netflixdnstest5.com
-  - netflixdnstest6.com
-  - netflixdnstest7.com
-  - netflixdnstest8.com
-  - netflixdnstest9.com
   - netflixinvestor.com
   - netflixstudios.com
   - netflixtechblog.com
@@ -264,6 +254,7 @@ domain_keyword_set:
   - dualstack.apiproxy-
   - dualstack.ichnaea-web-
   - netflixdnstest
+  - tiktok
 ip_cidr_set:
   - 103.87.204.0/22
   - 107.23.255.0/26
