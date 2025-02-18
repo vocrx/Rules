@@ -46,7 +46,6 @@ domain_set:
   - chainid.network
   - churros.cloud
   - claw.cloud
-  - cloud.boil.network
   - cloud.ggvision.net
   - containrrr.dev
   - dash.halocloudnet.com
@@ -148,6 +147,7 @@ domain_suffix_set:
   - 1password.co
   - 1password.com
   - 1rx.io
+  - 227755.xyz
   - 23m.com
   - 31173.se
   - 335.pp.ua
@@ -284,6 +284,7 @@ domain_suffix_set:
   - bnbzh.ac
   - bntrace.com
   - boba.network
+  - boil.network
   - bootstrapcdn.com
   - boxjs.app
   - branch.io
@@ -535,6 +536,7 @@ domain_suffix_set:
   - glassnode.com
   - globalxtreme.net
   - gmail.com
+  - godaddy.com
   - gosquared.com
   - gptapi.us
   - grafana.com
@@ -687,6 +689,7 @@ domain_suffix_set:
   - maple.finance
   - marketo.net
   - mask.icloud.com
+  - mastercard.com
   - masternodes.online
   - maticvigil.com
   - maxmind.com
@@ -699,6 +702,7 @@ domain_suffix_set:
   - mega.nz
   - melbicom.net
   - merhabainternet.com
+  - mesim.io
   - mesl.cloud
   - metacubex.one
   - metadata.io
@@ -965,6 +969,8 @@ domain_suffix_set:
   - spiritlhl.net
   - split.io
   - spmailtechno.com
+  - spotify.com
+  - spotifycdn.com
   - sprig.com
   - stackexchange.com
   - starhub.com
