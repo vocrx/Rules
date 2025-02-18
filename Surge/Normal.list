@@ -44,7 +44,6 @@ DOMAIN,celebsroulette.com
 DOMAIN,chainid.network
 DOMAIN,churros.cloud
 DOMAIN,claw.cloud
-DOMAIN,cloud.boil.network
 DOMAIN,cloud.ggvision.net
 DOMAIN,containrrr.dev
 DOMAIN,dash.halocloudnet.com
@@ -181,6 +180,7 @@ DOMAIN-SUFFIX,1ml.com
 DOMAIN-SUFFIX,1password.co
 DOMAIN-SUFFIX,1password.com
 DOMAIN-SUFFIX,1rx.io
+DOMAIN-SUFFIX,227755.xyz
 DOMAIN-SUFFIX,23m.com
 DOMAIN-SUFFIX,31173.se
 DOMAIN-SUFFIX,335.pp.ua
@@ -317,6 +317,7 @@ DOMAIN-SUFFIX,bnappzh.mobi
 DOMAIN-SUFFIX,bnbzh.ac
 DOMAIN-SUFFIX,bntrace.com
 DOMAIN-SUFFIX,boba.network
+DOMAIN-SUFFIX,boil.network
 DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,branch.io
@@ -568,6 +569,7 @@ DOMAIN-SUFFIX,githubusercontent.com
 DOMAIN-SUFFIX,glassnode.com
 DOMAIN-SUFFIX,globalxtreme.net
 DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,godaddy.com
 DOMAIN-SUFFIX,gosquared.com
 DOMAIN-SUFFIX,gptapi.us
 DOMAIN-SUFFIX,grafana.com
@@ -720,6 +722,7 @@ DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,maple.finance
 DOMAIN-SUFFIX,marketo.net
 DOMAIN-SUFFIX,mask.icloud.com
+DOMAIN-SUFFIX,mastercard.com
 DOMAIN-SUFFIX,masternodes.online
 DOMAIN-SUFFIX,maticvigil.com
 DOMAIN-SUFFIX,maxmind.com
@@ -732,6 +735,7 @@ DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,mega.nz
 DOMAIN-SUFFIX,melbicom.net
 DOMAIN-SUFFIX,merhabainternet.com
+DOMAIN-SUFFIX,mesim.io
 DOMAIN-SUFFIX,mesl.cloud
 DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metadata.io
@@ -998,6 +1002,8 @@ DOMAIN-SUFFIX,sparkpostmail1.com
 DOMAIN-SUFFIX,spiritlhl.net
 DOMAIN-SUFFIX,split.io
 DOMAIN-SUFFIX,spmailtechno.com
+DOMAIN-SUFFIX,spotify.com
+DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,starhub.com
