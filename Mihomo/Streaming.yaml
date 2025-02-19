@@ -267,6 +267,8 @@ payload:
 - IP-CIDR,108.137.25.0/24,no-resolve
 - IP-CIDR,108.137.26.0/24,no-resolve
 - IP-CIDR,108.175.32.0/20,no-resolve
+- IP-CIDR,109.61.92.23/28,no-resolve
+- IP-CIDR,121.127.40.234/28,no-resolve
 - IP-CIDR,13.112.191.184/29,no-resolve
 - IP-CIDR,13.113.196.64/26,no-resolve
 - IP-CIDR,13.113.203.0/24,no-resolve
@@ -1350,6 +1352,7 @@ payload:
 - IP-CIDR,69.53.224.0/19,no-resolve
 - IP-CIDR,70.232.86.124/31,no-resolve
 - IP-CIDR,70.232.86.126/32,no-resolve
+- IP-CIDR,71.18.130.248/28,no-resolve
 - IP-CIDR,76.223.104.0/24,no-resolve
 - IP-CIDR,76.223.95.0/24,no-resolve
 - IP-CIDR,76.223.96.0/21,no-resolve
