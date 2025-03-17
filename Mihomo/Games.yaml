@@ -1,17 +1,5 @@
 payload:
-  - PROCESS-NAME,RiotClientServices.exe
-  - PROCESS-NAME,Riot Client.exe
-  - PROCESS-NAME,LeagueClient.exe
-  - PROCESS-NAME,League of Legends.exe
-  - PROCESS-NAME,vgc.exe
-  - PROCESS-NAME,LeagueClientUxRender.exe
-  - PROCESS-NAME,VALORANT-Win64-Shipping.exe
-  - PROCESS-NAME,vgtray.exe
-  - PROCESS-NAME,r5apex.exe
-  - PROCESS-NAME,start_protected_game.exe
-  - PROCESS-NAME,r5apex_dx12.exe
-  - PROCESS-NAME,Goose Goose Duck.exe
-  - PROCESS-NAME,ExecPubg.exe
-  - PROCESS-NAME,TslGame_ZK.exe
-  - PROCESS-NAME,BEService.exe
-  - PROCESS-NAME,TslGame.exe
+- DOMAIN-SUFFIX,pvp.net
+- DOMAIN-SUFFIX,riotcdn.net
+- DOMAIN-SUFFIX,riotgames.com
+- IP-CIDR,151.106.247.5/28
