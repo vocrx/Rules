@@ -100,7 +100,6 @@ domain_set:
   - prreqcroab.icu
   - res.cloudinary.com
   - rsms.me
-  - s.team
   - sg.cloudhost.asia
   - skxqhd.xyz
   - snap.licdn.com
@@ -1205,7 +1204,6 @@ domain_keyword_set:
   - sc-datasink
   - sipay
   - speedtest
-  - steam
   - testflight
   - yingwangtech
 ip_cidr_set:

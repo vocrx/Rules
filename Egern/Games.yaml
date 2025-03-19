@@ -1,7 +1,21 @@
 no_resolve: true
 domain_suffix_set:
+  - csgo.wmsj.cn
+  - dota2.wmsj.cn
+  - f3b7q2p3.ssl.hwcdn.net
+  - fanatical.com
+  - humblebundle.com
+  - playartifact.com
   - pvp.net
   - riotcdn.net
   - riotgames.com
+  - s.team
+  - st.dl.bscstorage.net
+  - st.dl.eccdnx.com
+  - st.dl.pinyuncloud.com
+  - underlords.com
+  - valvesoftware.com
+domain_keyword_set:
+  - steam
 ip_cidr_set:
   - 151.106.247.5/28

@@ -99,7 +99,6 @@ payload:
 - DOMAIN,prreqcroab.icu
 - DOMAIN,res.cloudinary.com
 - DOMAIN,rsms.me
-- DOMAIN,s.team
 - DOMAIN,sg.cloudhost.asia
 - DOMAIN,skxqhd.xyz
 - DOMAIN,snap.licdn.com
@@ -166,7 +165,6 @@ payload:
 - DOMAIN-KEYWORD,sc-datasink
 - DOMAIN-KEYWORD,sipay
 - DOMAIN-KEYWORD,speedtest
-- DOMAIN-KEYWORD,steam
 - DOMAIN-KEYWORD,testflight
 - DOMAIN-KEYWORD,yingwangtech
 - DOMAIN-SUFFIX,002397.xyz
