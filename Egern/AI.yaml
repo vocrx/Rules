@@ -6,6 +6,7 @@ domain_set:
 domain_suffix_set:
   - anthropic.com
   - chatgpt.com
+  - x.ai
 domain_keyword_set:
   - claude
   - openai
