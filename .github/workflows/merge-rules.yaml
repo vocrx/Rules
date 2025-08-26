@@ -24,8 +24,8 @@ jobs:
 
       - name: Download source files
         run: |
-          curl -o Surge/ChinaIPV4.conf -s https://ruleset.skk.moe/List/ip/china_ip.conf
-          curl -o Surge/ChinaIPV6.conf -s https://ruleset.skk.moe/List/ip/china_ip_ipv6.conf
+          curl -o Surge/ChinaIPV4.conf -sL https://ruleset.skk.moe/List/ip/china_ip.conf
+          curl -o Surge/ChinaIPV6.conf -sL https://ruleset.skk.moe/List/ip/china_ip_ipv6.conf
 
       - name: Merge China Rules
         run: python Scripts/Merge-rules.py -i "Surge/Domestic.list,Surge/ChinaIPV4.conf,Surge/ChinaIPV6.conf" -o "Surge/China.list"
