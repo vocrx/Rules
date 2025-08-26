@@ -207,8 +207,8 @@ domain_suffix_set:
   - didi.cn
   - didialift.com
   - diditaxi.com.cn
-  - digicert.cn
   - digicert-cn.com
+  - digicert.cn
   - dingtalk.cn
   - dingtalk.com
   - dingtalkapps.com
@@ -477,6 +477,7 @@ domain_suffix_set:
   - suanya.com
   - superbed.cn
   - swifthealth.cn
+  - szcm.mtdb.ddns.wangdai.us
   - tanx.com
   - taobao.com
   - taopiaopiao.com
