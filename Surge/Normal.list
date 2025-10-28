@@ -15,7 +15,6 @@ DOMAIN,b.cdnst.net
 DOMAIN,b.stripecdn.com
 DOMAIN,baidu.do
 DOMAIN,bestvm.cloud
-DOMAIN,beta.apple.com
 DOMAIN,bgp.gd
 DOMAIN,bgp.tools
 DOMAIN,braze-images.com
@@ -69,7 +68,6 @@ DOMAIN,id5-sync.com
 DOMAIN,idc333.top
 DOMAIN,iili.io
 DOMAIN,img.pub
-DOMAIN,itunes.com
 DOMAIN,jeza-chen.com
 DOMAIN,jike.info
 DOMAIN,js.intercomcdn.com
@@ -349,7 +347,6 @@ DOMAIN-SUFFIX,carnet.hr
 DOMAIN-SUFFIX,casalemedia.com
 DOMAIN-SUFFIX,cbeci.org
 DOMAIN-SUFFIX,cbn.id
-DOMAIN-SUFFIX,cdn-apple.com
 DOMAIN-SUFFIX,cdn-telegram.org
 DOMAIN-SUFFIX,cdn.oyunfor.com
 DOMAIN-SUFFIX,cdn2020.com
@@ -548,7 +545,6 @@ DOMAIN-SUFFIX,g123.jp
 DOMAIN-SUFFIX,gaggle.fun
 DOMAIN-SUFFIX,gamepedia.com
 DOMAIN-SUFFIX,gandi.net
-DOMAIN-SUFFIX,gateway.icloud.com
 DOMAIN-SUFFIX,gbqofs.io
 DOMAIN-SUFFIX,gdbzkz.com
 DOMAIN-SUFFIX,gegebu.ru
@@ -618,7 +614,6 @@ DOMAIN-SUFFIX,i3d.net
 DOMAIN-SUFFIX,i8.pw
 DOMAIN-SUFFIX,ibb.co
 DOMAIN-SUFFIX,ibruce.info
-DOMAIN-SUFFIX,icloud-content.com
 DOMAIN-SUFFIX,icodrops.com
 DOMAIN-SUFFIX,iconify.design
 DOMAIN-SUFFIX,icscoe.jp
@@ -658,7 +653,6 @@ DOMAIN-SUFFIX,ipinfo.io
 DOMAIN-SUFFIX,ipv6.br
 DOMAIN-SUFFIX,isgo.win
 DOMAIN-SUFFIX,iswiftai.com
-DOMAIN-SUFFIX,itunes.apple.com
 DOMAIN-SUFFIX,iu13.net
 DOMAIN-SUFFIX,iubenda.com
 DOMAIN-SUFFIX,ixvvv.com
@@ -728,7 +722,6 @@ DOMAIN-SUFFIX,makersplace.com
 DOMAIN-SUFFIX,mapbox.com
 DOMAIN-SUFFIX,maple.finance
 DOMAIN-SUFFIX,marketo.net
-DOMAIN-SUFFIX,mask.icloud.com
 DOMAIN-SUFFIX,mastercard.com
 DOMAIN-SUFFIX,masternodes.online
 DOMAIN-SUFFIX,maticvigil.com
@@ -748,7 +741,6 @@ DOMAIN-SUFFIX,metacubex.one
 DOMAIN-SUFFIX,metadata.io
 DOMAIN-SUFFIX,metalpha.finance
 DOMAIN-SUFFIX,metowolf.com
-DOMAIN-SUFFIX,metrics.icloud.com
 DOMAIN-SUFFIX,microsoft.com
 DOMAIN-SUFFIX,microsoftapp.net
 DOMAIN-SUFFIX,microsoftonline.com
@@ -785,7 +777,6 @@ DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,mtc4me.com
 DOMAIN-SUFFIX,mudgee.host
 DOMAIN-SUFFIX,muflyer.com
-DOMAIN-SUFFIX,music.apple.com
 DOMAIN-SUFFIX,myaisfibre.com
 DOMAIN-SUFFIX,myetherwallet.com
 DOMAIN-SUFFIX,mypikpak.net
@@ -834,7 +825,6 @@ DOMAIN-SUFFIX,nvidia.com
 DOMAIN-SUFFIX,nyctale.io
 DOMAIN-SUFFIX,o2.cz
 DOMAIN-SUFFIX,ocsp.digicert.com
-DOMAIN-SUFFIX,ocsp2.apple.com
 DOMAIN-SUFFIX,octu88.com
 DOMAIN-SUFFIX,office.com
 DOMAIN-SUFFIX,officechat.cc
@@ -981,7 +971,6 @@ DOMAIN-SUFFIX,sentry-cdn.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,serv00.com
 DOMAIN-SUFFIX,servenobid.com
-DOMAIN-SUFFIX,setup.icloud.com
 DOMAIN-SUFFIX,sf1.top
 DOMAIN-SUFFIX,sharethrough.com
 DOMAIN-SUFFIX,sharktech.net
@@ -1176,6 +1165,7 @@ DOMAIN-SUFFIX,wyndlabs.ai
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xfernet.net
 DOMAIN-SUFFIX,xn--ji8h.eu.org
+DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 DOMAIN-SUFFIX,xsus.net.co
 DOMAIN-SUFFIX,xtom.com
 DOMAIN-SUFFIX,xuanyge.info
@@ -1209,7 +1199,6 @@ DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,zoominfo.com
 DOMAIN-SUFFIX,zve.me
-DOMAIN-SUFFIX,xn--ngstr-lra8j.com
 IP-CIDR,120.24.233.110/32
 IP-CIDR,120.76.205.62/32
 IP-CIDR,120.78.229.149/32
