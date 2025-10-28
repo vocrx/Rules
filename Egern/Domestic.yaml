@@ -295,6 +295,7 @@ domain_suffix_set:
   - iqiyi.com
   - itc.cn
   - itdog.cn
+  - itunes.com
   - jackyu.cn
   - jd.com
   - jdcloud-oss.com
@@ -497,7 +498,6 @@ domain_suffix_set:
   - testipv6.cn
   - tfogc.com
   - tieyou.com
-  - time.apple.com
   - timhortons.com.cn
   - tingyun.com
   - tjjt360.com

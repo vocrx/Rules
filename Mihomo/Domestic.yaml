@@ -293,6 +293,7 @@ payload:
 - DOMAIN-SUFFIX,iqiyi.com
 - DOMAIN-SUFFIX,itc.cn
 - DOMAIN-SUFFIX,itdog.cn
+- DOMAIN-SUFFIX,itunes.com
 - DOMAIN-SUFFIX,jackyu.cn
 - DOMAIN-SUFFIX,jd.com
 - DOMAIN-SUFFIX,jdcloud-oss.com
@@ -495,7 +496,6 @@ payload:
 - DOMAIN-SUFFIX,testipv6.cn
 - DOMAIN-SUFFIX,tfogc.com
 - DOMAIN-SUFFIX,tieyou.com
-- DOMAIN-SUFFIX,time.apple.com
 - DOMAIN-SUFFIX,timhortons.com.cn
 - DOMAIN-SUFFIX,tingyun.com
 - DOMAIN-SUFFIX,tjjt360.com

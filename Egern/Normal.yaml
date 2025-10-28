@@ -17,7 +17,6 @@ domain_set:
   - b.stripecdn.com
   - baidu.do
   - bestvm.cloud
-  - beta.apple.com
   - bgp.gd
   - bgp.tools
   - braze-images.com
@@ -71,7 +70,6 @@ domain_set:
   - idc333.top
   - iili.io
   - img.pub
-  - itunes.com
   - jeza-chen.com
   - jike.info
   - js.intercomcdn.com
@@ -317,7 +315,6 @@ domain_suffix_set:
   - casalemedia.com
   - cbeci.org
   - cbn.id
-  - cdn-apple.com
   - cdn-telegram.org
   - cdn.oyunfor.com
   - cdn2020.com
@@ -516,7 +513,6 @@ domain_suffix_set:
   - gaggle.fun
   - gamepedia.com
   - gandi.net
-  - gateway.icloud.com
   - gbqofs.io
   - gdbzkz.com
   - gegebu.ru
@@ -586,7 +582,6 @@ domain_suffix_set:
   - i8.pw
   - ibb.co
   - ibruce.info
-  - icloud-content.com
   - icodrops.com
   - iconify.design
   - icscoe.jp
@@ -626,7 +621,6 @@ domain_suffix_set:
   - ipv6.br
   - isgo.win
   - iswiftai.com
-  - itunes.apple.com
   - iu13.net
   - iubenda.com
   - ixvvv.com
@@ -696,7 +690,6 @@ domain_suffix_set:
   - mapbox.com
   - maple.finance
   - marketo.net
-  - mask.icloud.com
   - mastercard.com
   - masternodes.online
   - maticvigil.com
@@ -716,7 +709,6 @@ domain_suffix_set:
   - metadata.io
   - metalpha.finance
   - metowolf.com
-  - metrics.icloud.com
   - microsoft.com
   - microsoftapp.net
   - microsoftonline.com
@@ -753,7 +745,6 @@ domain_suffix_set:
   - mtc4me.com
   - mudgee.host
   - muflyer.com
-  - music.apple.com
   - myaisfibre.com
   - myetherwallet.com
   - mypikpak.net
@@ -802,7 +793,6 @@ domain_suffix_set:
   - nyctale.io
   - o2.cz
   - ocsp.digicert.com
-  - ocsp2.apple.com
   - octu88.com
   - office.com
   - officechat.cc
@@ -949,7 +939,6 @@ domain_suffix_set:
   - sentry.io
   - serv00.com
   - servenobid.com
-  - setup.icloud.com
   - sf1.top
   - sharethrough.com
   - sharktech.net
@@ -1144,6 +1133,7 @@ domain_suffix_set:
   - x.com
   - xfernet.net
   - xn--ji8h.eu.org
+  - xn--ngstr-lra8j.com
   - xsus.net.co
   - xtom.com
   - xuanyge.info
@@ -1177,7 +1167,6 @@ domain_suffix_set:
   - zksync.io
   - zoominfo.com
   - zve.me
-  - xn--ngstr-lra8j.com
 domain_keyword_set:
   - appsflayer
   - binance
