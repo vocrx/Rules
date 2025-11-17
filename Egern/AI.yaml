@@ -1,12 +1,61 @@
 no_resolve: true
 domain_set:
   - ai.google.dev
+  - aistudio.google.com
+  - alkalicore-pa.clients6.google.com
+  - alkalimakersuite-pa.clients6.google.com
+  - api-iam.intercom.io
+  - api.statsig.com
+  - apple-relay.apple.com
+  - apple-relay.cloudflare.com
+  - apple-relay.fastly-edge.com
+  - bard.google.com
+  - copilot.microsoft.com
   - deepmind.google
+  - gateway.ai.cloudflare.com
   - gemini.google.com
+  - gspe1-ssl.ls.apple.com
+  - guzzoni.smoot.apple.com
+  - imagine.meta.com
+  - o33249.ingest.sentry.io
+  - pplx-res.cloudinary.com
+  - sydney.bing.com
+  - www.bing.com
 domain_suffix_set:
   - anthropic.com
+  - byteoversea.com
+  - chat.com
   - chatgpt.com
+  - cici.com
+  - ciciai.com
+  - cursor-cdn.com
+  - cursor.com
+  - cursor.sh
+  - cursorapi.com
+  - deepmind.com
+  - deepmind.google
+  - dola.com
+  - geller-pa.googleapis.com
+  - generativeai.google
+  - generativelanguage.googleapis.com
+  - githubcopilot.com
+  - grazie.ai
+  - grok.com
+  - groq.com
+  - livekit.cloud
+  - makersuite.google.com
+  - meta.ai
+  - oaistatic.com
+  - oaiusercontent.com
+  - perplexity.ai
+  - pplx.ai
+  - proactivebackend-pa.googleapis.com
+  - sora.com
   - x.ai
 domain_keyword_set:
   - claude
+  - labs.google
+  - notebooklm.google
   - openai
+  - openaiapi
+  - openaicom
