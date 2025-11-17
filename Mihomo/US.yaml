@@ -18,8 +18,6 @@ payload:
 - DOMAIN,imagine.meta.com
 - DOMAIN,o33249.ingest.sentry.io
 - DOMAIN,pplx-res.cloudinary.com
-- DOMAIN,sydney.bing.com
-- DOMAIN,www.bing.com
 - DOMAIN-KEYWORD,claude
 - DOMAIN-KEYWORD,labs.google
 - DOMAIN-KEYWORD,notebooklm.google

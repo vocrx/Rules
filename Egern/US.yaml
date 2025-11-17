@@ -19,8 +19,6 @@ domain_set:
   - imagine.meta.com
   - o33249.ingest.sentry.io
   - pplx-res.cloudinary.com
-  - sydney.bing.com
-  - www.bing.com
 domain_suffix_set:
   - anfutong.cn
   - anfutong.com
