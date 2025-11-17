@@ -1,8 +1,26 @@
 no_resolve: true
 domain_set:
   - ai.google.dev
+  - aistudio.google.com
+  - alkalicore-pa.clients6.google.com
+  - alkalimakersuite-pa.clients6.google.com
+  - api-iam.intercom.io
+  - api.statsig.com
+  - apple-relay.apple.com
+  - apple-relay.cloudflare.com
+  - apple-relay.fastly-edge.com
+  - bard.google.com
+  - copilot.microsoft.com
   - deepmind.google
+  - gateway.ai.cloudflare.com
   - gemini.google.com
+  - gspe1-ssl.ls.apple.com
+  - guzzoni.smoot.apple.com
+  - imagine.meta.com
+  - o33249.ingest.sentry.io
+  - pplx-res.cloudinary.com
+  - sydney.bing.com
+  - www.bing.com
 domain_suffix_set:
   - anfutong.cn
   - anfutong.com
@@ -27,20 +45,43 @@ domain_suffix_set:
   - briantreepayments.net
   - briantreepayments.tv
   - buyfast-paysmart.net
+  - byteoversea.com
   - card.io
   - cash2.com
   - cashify.com
   - cashify.net
+  - chat.com
   - chatgpt.com
+  - cici.com
+  - ciciai.com
+  - cursor-cdn.com
+  - cursor.com
+  - cursor.sh
+  - cursorapi.com
+  - deepmind.com
+  - deepmind.google
+  - dola.com
   - experiencebillmelater.com
   - filipino-music.net
+  - geller-pa.googleapis.com
+  - generativeai.google
+  - generativelanguage.googleapis.com
   - getbraintree.com
+  - githubcopilot.com
   - gmoney.org
+  - grazie.ai
+  - grok.com
+  - groq.com
   - i-o-u.info
   - krakenjs.com
+  - livekit.cloud
   - loanbuilder.com
+  - makersuite.google.com
+  - meta.ai
   - mywaytopay.info
   - mywaytopay.net
+  - oaistatic.com
+  - oaiusercontent.com
   - pa9pal.com
   - paaypal.com
   - paily.net
@@ -55,14 +96,18 @@ domain_suffix_set:
   - payppal.com
   - payypal.com
   - pdncommunity.com
+  - perplexity.ai
   - pp-soc.com
+  - pplx.ai
   - pppds.com
+  - proactivebackend-pa.googleapis.com
   - pypl.com
   - pypl.info
   - pypl.net
   - pypl.tv
   - s-xoom.com
   - simility.com
+  - sora.com
   - swiftbank.info
   - swiftbank.us
   - swiftcapital.com
@@ -89,5 +134,7 @@ domain_suffix_set:
   - xoomcom.com
 domain_keyword_set:
   - claude
+  - labs.google
+  - notebooklm.google
   - openai
   - paypal
