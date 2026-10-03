@@ -15,4 +15,5 @@ payload:
 - DOMAIN-SUFFIX,st.dl.pinyuncloud.com
 - DOMAIN-SUFFIX,underlords.com
 - DOMAIN-SUFFIX,valvesoftware.com
+- DOMAIN-SUFFIX,rgpub.io
 - IP-CIDR,151.106.247.5/28

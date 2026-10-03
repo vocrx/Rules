@@ -15,6 +15,7 @@ domain_suffix_set:
   - st.dl.pinyuncloud.com
   - underlords.com
   - valvesoftware.com
+  - rgpub.io
 domain_keyword_set:
   - steam
 ip_cidr_set:
