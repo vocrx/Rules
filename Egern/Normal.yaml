@@ -1166,6 +1166,9 @@ domain_suffix_set:
   - zksync.io
   - zoominfo.com
   - zve.me
+  - usercentrics.com
+  - braze.eu
+  - starlanex.com
 domain_keyword_set:
   - appsflayer
   - binance
