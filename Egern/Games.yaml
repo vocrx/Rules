@@ -17,6 +17,8 @@ domain_suffix_set:
   - supercell.com
   - underlords.com
   - valvesoftware.com
+  - clashofclans.com
+  - supercell.zendesk.com
 domain_keyword_set:
   - steam
 ip_cidr_set:

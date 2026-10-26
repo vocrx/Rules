@@ -17,4 +17,6 @@ payload:
 - DOMAIN-SUFFIX,supercell.com
 - DOMAIN-SUFFIX,underlords.com
 - DOMAIN-SUFFIX,valvesoftware.com
+- DOMAIN-SUFFIX,clashofclans.com
+- DOMAIN-SUFFIX,supercell.zendesk.com
 - IP-CIDR,151.106.247.5/28
