@@ -6,13 +6,14 @@ DOMAIN-SUFFIX,fanatical.com
 DOMAIN-SUFFIX,humblebundle.com
 DOMAIN-SUFFIX,playartifact.com
 DOMAIN-SUFFIX,pvp.net
+DOMAIN-SUFFIX,rgpub.io
 DOMAIN-SUFFIX,riotcdn.net
 DOMAIN-SUFFIX,riotgames.com
 DOMAIN-SUFFIX,s.team
 DOMAIN-SUFFIX,st.dl.bscstorage.net
 DOMAIN-SUFFIX,st.dl.eccdnx.com
 DOMAIN-SUFFIX,st.dl.pinyuncloud.com
+DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,underlords.com
 DOMAIN-SUFFIX,valvesoftware.com
-DOMAIN-SUFFIX,rgpub.io
 IP-CIDR,151.106.247.5/28
