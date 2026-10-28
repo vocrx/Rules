@@ -1169,6 +1169,16 @@ domain_suffix_set:
   - usercentrics.com
   - braze.eu
   - starlanex.com
+  - msftconnecttest.com
+  - msftncsi.com
+  - windowsupdate.com
+  - sectigo.com
+  - comodoca.com
+  - rapidssl.com
+  - certum.pl
+  - gvt1.com
+  - mirror.rackspace.com
+  - fab24hr.com
 domain_keyword_set:
   - appsflayer
   - binance

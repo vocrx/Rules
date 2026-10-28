@@ -1202,6 +1202,16 @@ payload:
 - DOMAIN-SUFFIX,usercentrics.com
 - DOMAIN-SUFFIX,braze.eu
 - DOMAIN-SUFFIX,starlanex.com
+- DOMAIN-SUFFIX,msftconnecttest.com
+- DOMAIN-SUFFIX,msftncsi.com
+- DOMAIN-SUFFIX,windowsupdate.com
+- DOMAIN-SUFFIX,sectigo.com
+- DOMAIN-SUFFIX,comodoca.com
+- DOMAIN-SUFFIX,rapidssl.com
+- DOMAIN-SUFFIX,certum.pl
+- DOMAIN-SUFFIX,gvt1.com
+- DOMAIN-SUFFIX,mirror.rackspace.com
+- DOMAIN-SUFFIX,fab24hr.com
 - IP-CIDR,120.24.233.110/32
 - IP-CIDR,120.76.205.62/32
 - IP-CIDR,120.78.229.149/32

@@ -14,11 +14,8 @@ domain_suffix_set:
   - st.dl.bscstorage.net
   - st.dl.eccdnx.com
   - st.dl.pinyuncloud.com
-  - supercell.com
   - underlords.com
   - valvesoftware.com
-  - clashofclans.com
-  - supercell.zendesk.com
 domain_keyword_set:
   - steam
 ip_cidr_set:
