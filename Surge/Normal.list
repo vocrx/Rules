@@ -320,6 +320,7 @@ DOMAIN-SUFFIX,bootstrapcdn.com
 DOMAIN-SUFFIX,boxjs.app
 DOMAIN-SUFFIX,branch.io
 DOMAIN-SUFFIX,brandmetrics.com
+DOMAIN-SUFFIX,braze.eu
 DOMAIN-SUFFIX,brew.sh
 DOMAIN-SUFFIX,bscscan.com
 DOMAIN-SUFFIX,btc.com
@@ -353,6 +354,7 @@ DOMAIN-SUFFIX,cdn2020.com
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,celcom.net.my
 DOMAIN-SUFFIX,cellrebel.com
+DOMAIN-SUFFIX,certum.pl
 DOMAIN-SUFFIX,cex.io
 DOMAIN-SUFFIX,chainalysis.com
 DOMAIN-SUFFIX,chainbroker.io
@@ -400,6 +402,7 @@ DOMAIN-SUFFIX,coinowo.com
 DOMAIN-SUFFIX,cointrendz.com
 DOMAIN-SUFFIX,colocrossing.com
 DOMAIN-SUFFIX,coloradointerlink.net
+DOMAIN-SUFFIX,comodoca.com
 DOMAIN-SUFFIX,company-target.com
 DOMAIN-SUFFIX,compare.com
 DOMAIN-SUFFIX,compound.finance
@@ -509,6 +512,7 @@ DOMAIN-SUFFIX,eyeota.net
 DOMAIN-SUFFIX,ezoic.net
 DOMAIN-SUFFIX,ezojs.com
 DOMAIN-SUFFIX,f2pool.com
+DOMAIN-SUFFIX,fab24hr.com
 DOMAIN-SUFFIX,facebook.com
 DOMAIN-SUFFIX,facebook.net
 DOMAIN-SUFFIX,faconhost.com
@@ -577,6 +581,7 @@ DOMAIN-SUFFIX,gubo.org
 DOMAIN-SUFFIX,gugu.ovh
 DOMAIN-SUFFIX,gumgum.com
 DOMAIN-SUFFIX,gurl.eu.org
+DOMAIN-SUFFIX,gvt1.com
 DOMAIN-SUFFIX,gwwc.net
 DOMAIN-SUFFIX,hashflow.com
 DOMAIN-SUFFIX,hbabit.com
@@ -748,6 +753,7 @@ DOMAIN-SUFFIX,microsofttranslator.com
 DOMAIN-SUFFIX,mij.rip
 DOMAIN-SUFFIX,miji.bid
 DOMAIN-SUFFIX,mikyhost.com
+DOMAIN-SUFFIX,mirror.rackspace.com
 DOMAIN-SUFFIX,misaka.io
 DOMAIN-SUFFIX,misaka.one
 DOMAIN-SUFFIX,misakaf.org
@@ -773,6 +779,8 @@ DOMAIN-SUFFIX,mozilla1.com
 DOMAIN-SUFFIX,msauth.net
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,msftauth.net
+DOMAIN-SUFFIX,msftconnecttest.com
+DOMAIN-SUFFIX,msftncsi.com
 DOMAIN-SUFFIX,msn.com
 DOMAIN-SUFFIX,mtc4me.com
 DOMAIN-SUFFIX,mudgee.host
@@ -922,6 +930,7 @@ DOMAIN-SUFFIX,quiknode.pro
 DOMAIN-SUFFIX,race.com
 DOMAIN-SUFFIX,railway.com
 DOMAIN-SUFFIX,rank.io
+DOMAIN-SUFFIX,rapidssl.com
 DOMAIN-SUFFIX,ratatoskr.org
 DOMAIN-SUFFIX,raydium.io
 DOMAIN-SUFFIX,reddit.com
@@ -960,6 +969,7 @@ DOMAIN-SUFFIX,schemastore.org
 DOMAIN-SUFFIX,scorecardresearch.com
 DOMAIN-SUFFIX,sctelcom.com
 DOMAIN-SUFFIX,sda1.dev
+DOMAIN-SUFFIX,sectigo.com
 DOMAIN-SUFFIX,seedtag.com
 DOMAIN-SUFFIX,segment.com
 DOMAIN-SUFFIX,segment.io
@@ -1007,6 +1017,7 @@ DOMAIN-SUFFIX,spotifycdn.com
 DOMAIN-SUFFIX,sprig.com
 DOMAIN-SUFFIX,stackexchange.com
 DOMAIN-SUFFIX,starhub.com
+DOMAIN-SUFFIX,starlanex.com
 DOMAIN-SUFFIX,stash-activation.com
 DOMAIN-SUFFIX,stash.wiki
 DOMAIN-SUFFIX,stateofthedapps.com
@@ -1106,6 +1117,7 @@ DOMAIN-SUFFIX,unrealengine.com
 DOMAIN-SUFFIX,unsplash.com
 DOMAIN-SUFFIX,upbit.com
 DOMAIN-SUFFIX,usabilla.com
+DOMAIN-SUFFIX,usercentrics.com
 DOMAIN-SUFFIX,usertrust.com
 DOMAIN-SUFFIX,utilitarianism.com
 DOMAIN-SUFFIX,uu.net
@@ -1149,6 +1161,7 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,windows.com
 DOMAIN-SUFFIX,windows.net
+DOMAIN-SUFFIX,windowsupdate.com
 DOMAIN-SUFFIX,wintermute.com
 DOMAIN-SUFFIX,wirsnet.com
 DOMAIN-SUFFIX,wisecoin.com
@@ -1198,19 +1211,6 @@ DOMAIN-SUFFIX,zkscan.io
 DOMAIN-SUFFIX,zksync.io
 DOMAIN-SUFFIX,zoominfo.com
 DOMAIN-SUFFIX,zve.me
-DOMAIN-SUFFIX,usercentrics.com
-DOMAIN-SUFFIX,braze.eu
-DOMAIN-SUFFIX,starlanex.com
-DOMAIN-SUFFIX,msftconnecttest.com
-DOMAIN-SUFFIX,msftncsi.com
-DOMAIN-SUFFIX,windowsupdate.com
-DOMAIN-SUFFIX,sectigo.com
-DOMAIN-SUFFIX,comodoca.com
-DOMAIN-SUFFIX,rapidssl.com
-DOMAIN-SUFFIX,certum.pl
-DOMAIN-SUFFIX,gvt1.com
-DOMAIN-SUFFIX,mirror.rackspace.com
-DOMAIN-SUFFIX,fab24hr.com
 IP-CIDR,120.24.233.110/32
 IP-CIDR,120.76.205.62/32
 IP-CIDR,120.78.229.149/32

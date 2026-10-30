@@ -19,13 +19,13 @@ DOMAIN,o33249.ingest.sentry.io
 DOMAIN,pplx-res.cloudinary.com
 DOMAIN,sydney.bing.com
 DOMAIN,www.bing.com
+DOMAIN-KEYWORD,anthropic
 DOMAIN-KEYWORD,claude
 DOMAIN-KEYWORD,labs.google
 DOMAIN-KEYWORD,notebooklm.google
 DOMAIN-KEYWORD,openai
 DOMAIN-KEYWORD,openaiapi
 DOMAIN-KEYWORD,openaicom
-DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,byteoversea.com
 DOMAIN-SUFFIX,chat.com
 DOMAIN-SUFFIX,chatgpt.com

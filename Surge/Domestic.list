@@ -82,6 +82,7 @@ DOMAIN-SUFFIX,51.la
 DOMAIN-SUFFIX,51downapp.cn
 DOMAIN-SUFFIX,58.com
 DOMAIN-SUFFIX,58cdn.com.cn
+DOMAIN-SUFFIX,722168.xyz
 DOMAIN-SUFFIX,7moor.com
 DOMAIN-SUFFIX,91haoka.cn
 DOMAIN-SUFFIX,91jifei.com
@@ -122,6 +123,7 @@ DOMAIN-SUFFIX,apple.cn
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,apple.com.cn
 DOMAIN-SUFFIX,autonavi.com
+DOMAIN-SUFFIX,awfuzhu.com
 DOMAIN-SUFFIX,baidu.com
 DOMAIN-SUFFIX,baidubo.org
 DOMAIN-SUFFIX,baidustatic.com
@@ -183,6 +185,7 @@ DOMAIN-SUFFIX,cmbimg.com
 DOMAIN-SUFFIX,cmcc-cs.cn
 DOMAIN-SUFFIX,cmpassport.com
 DOMAIN-SUFFIX,cn.ttkan.co
+DOMAIN-SUFFIX,cocfz.com
 DOMAIN-SUFFIX,coinall.ltd
 DOMAIN-SUFFIX,convection.cn
 DOMAIN-SUFFIX,coolapk.com
@@ -596,16 +599,13 @@ DOMAIN-SUFFIX,yy.com
 DOMAIN-SUFFIX,zhihu.com
 DOMAIN-SUFFIX,zhimg.com
 DOMAIN-SUFFIX,zhipin.com
+DOMAIN-SUFFIX,zhixueyun.com
 DOMAIN-SUFFIX,zhongheyingji.com
 DOMAIN-SUFFIX,zijieapi.com
 DOMAIN-SUFFIX,ziroom.com
 DOMAIN-SUFFIX,ziroom.com.cn
 DOMAIN-SUFFIX,zxzmail.com
 DOMAIN-SUFFIX,zztfly.com
-DOMAIN-SUFFIX,awfuzhu.com
-DOMAIN-SUFFIX,722168.xyz
-DOMAIN-SUFFIX,cocfz.com
-DOMAIN-SUFFIX,zhixueyun.com
 IP-ASN,132203
 IP-CIDR,127.0.0.0/8
 IP-CIDR,192.168.0.0/16
